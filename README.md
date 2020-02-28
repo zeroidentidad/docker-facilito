@@ -1,6 +1,6 @@
 # docker-facilito
 
-## Algunas notas y ejercicio referente al Curso de Docker
+## Algunas notas y ejercicios referente a Curso de Docker
 
 ### - Enlaces de referencia principales:
 
