@@ -8,4 +8,8 @@
 
     - https://docs.docker.com/compose/
 
-[Hola mundo](./holamundo.md)
+- [Hola mundo](./holamundo.md)
+
+- [Comandos basicos](./cmd_basicos.md)
+
+- [Modo interactivo](./modo_interactivo.md)
