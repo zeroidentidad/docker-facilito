@@ -4,12 +4,16 @@
 
 ### - Enlaces de referencia principales:
 
-    - https://docs.docker.com/install/linux/docker-ce/ubuntu/
+- https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
-    - https://docs.docker.com/compose/
+- https://docs.docker.com/compose/
 
-- [Hola mundo](./holamundo.md)
+### - Contenedores:
 
-- [Comandos basicos](./cmd_basicos.md)
+- [Hola mundo](./containers/holamundo.md)
 
-- [Modo interactivo](./modo_interactivo.md)
+- [Comandos basicos](./containers/cmd_basicos.md)
+
+- [Modo interactivo](./containers/modo_interactivo.md)
+
+- [Ejecutar comandos en contenedor](./containers/cmds_en_contenedor.md)
