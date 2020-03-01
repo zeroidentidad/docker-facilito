@@ -33,7 +33,7 @@ docker volume inspect vprueba
 sudo ls /var/lib/docker/volumes
 ```
 
-- Montar volumen a ruta dentro de contenedor previamente creado
+- Montar volumen a ruta dentro de contenedor nuevo
 
 ```shell
 # uso flag -v
