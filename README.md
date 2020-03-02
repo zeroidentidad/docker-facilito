@@ -31,3 +31,5 @@
 - [Overview](./images/overview.md)
 
 - [Dockerfile](./images/dockerfile.md)
+
+- [Copiar archivo(s) a imagen](./images/copiar_archivo.md)
