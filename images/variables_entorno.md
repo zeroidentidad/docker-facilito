@@ -28,7 +28,7 @@ COPY ./src/ /app/src/
 ADD pictures.tar.xz /com/src
 
 # guardar cambios valor ENV en archivos a agregar/copiar y generar imagen
-cd add
+cd env
 docker image build -t ubuntu-file:v5 .
 # salida
 Sending build context to Docker daemon  717.8kB

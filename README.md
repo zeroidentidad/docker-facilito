@@ -35,3 +35,5 @@
 - [Copiar archivo(s) a imagen](./images/copiar_archivo.md)
 
 - [Variables de entorno](./images/variables_entorno.md)
+
+- [Argumentos](./images/argumentos.md)
