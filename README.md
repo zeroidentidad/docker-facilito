@@ -37,3 +37,7 @@
 - [Variables de entorno](./images/variables_entorno.md)
 
 - [Argumentos](./images/argumentos.md)
+
+- [Dockerignore](./images/dockerignore.md)
+
+- [Trabajando con usuarios](./images/trabajo_con_usuarios.md)
