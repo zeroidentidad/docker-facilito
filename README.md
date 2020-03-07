@@ -43,3 +43,5 @@
 - [Trabajando con usuarios](./images/trabajo_con_usuarios.md)
 
 - [CMD vs ENTRYPOINT](./images/cmd_vs_entrypoint.md)
+
+- [Contenerizar app](./images/contenerizar_app.md)
