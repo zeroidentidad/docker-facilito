@@ -1,6 +1,4 @@
-# docker-facilito [feb-mar-2020]
-
-## Algunas notas y ejercicios referente a Curso de Docker
+# Docker-Facilito [*Feb-Mar-2020*]
 
 ### - Enlaces de referencia principales:
 
