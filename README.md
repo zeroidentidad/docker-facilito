@@ -49,3 +49,5 @@
 ### - Redes:
 
 - [Overview](./networks/overview.md)
+
+- [Inspeccionando redes](./networks/inspeccionando_redes.md)
