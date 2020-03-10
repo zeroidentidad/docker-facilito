@@ -16,6 +16,12 @@
 
 - [Ejecutar comandos en contenedor](./containers/cmds_en_contenedor.md)
 
+- [Puertos](./containers/puertos.md)
+
+- [Logs](./containers/logs.md)
+
+- [Commits](./containers/commits.md)
+
 ### - Volumenes:
 
 - [Overview](./volumes/overview.md)
