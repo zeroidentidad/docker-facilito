@@ -53,3 +53,5 @@
 - [Inspeccionando redes](./networks/inspeccionando_redes.md)
 
 - [Creando redes](./networks/creando_redes.md)
+
+- [Agregando Ip estática a contenedor](./networks/agregando_ip_estatica_contenedor.md)
