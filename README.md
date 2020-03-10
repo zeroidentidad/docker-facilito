@@ -1,4 +1,4 @@
-# Docker-Facilito [*Feb-Mar-2020*]
+# Docker-Facilito
 
 ### - Enlaces de referencia principales:
 
@@ -62,7 +62,7 @@
 
 - [Agregando Ip estática a contenedor](./networks/agregando_ip_estatica_contenedor.md)
 
-### Docker machine
+### - Docker machine
 
 - [Overview](./docker_machine/overview.md)
 
@@ -70,6 +70,6 @@
 
 - [Acceder a maquina virtual](./docker_machine/acceder_a_maquina_virtual.md)
 
-### Docker compose
+### - Docker compose
 
 - [Overview](./docker_compose/overview.md)
