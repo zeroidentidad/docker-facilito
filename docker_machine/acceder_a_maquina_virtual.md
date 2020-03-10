@@ -47,7 +47,7 @@ docker-machine env maquina-test
 # salida
 export DOCKER_TLS_VERIFY="1"
 export DOCKER_HOST="tcp://192.168.99.101:2376"
-export DOCKER_CERT_PATH="/home/chucho/.docker/machine/machines/maquina-test"
+export DOCKER_CERT_PATH="/home/usuario/.docker/machine/machines/maquina-test"
 export DOCKER_MACHINE_NAME="maquina-test"
 # Run this command to configure your shell: 
 # eval $(docker-machine env maquina-test)
