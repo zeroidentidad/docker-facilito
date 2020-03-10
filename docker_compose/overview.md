@@ -2,7 +2,7 @@
 
 ### Herramienta manejo servicio multi-contenedor
 
-    |Uso archivo .yml de configuraciones
+    Uso archivo .yml de configuraciones
 
 - Doc instalación: https://docs.docker.com/compose/install/
 
