@@ -1,8 +1,10 @@
 # Overview
 
-### Herramienta
+### Herramienta manejo servicio multi-contenedor
 
-- Doc instalación: 
+    |Uso archivo .yml de configuraciones
 
-#### Contenedores en maquinas remotas
+- Doc instalación: https://docs.docker.com/compose/install/
+
+#### Contenedores con servicios configurados
 ![diagrama](./img/overview.png)
