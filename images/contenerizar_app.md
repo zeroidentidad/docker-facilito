@@ -128,7 +128,7 @@ Removing intermediate container 1ef07eeccc0c
 Successfully built fa3da8675ff6
 Successfully tagged webapp:latest
 
-# ejecutar nuevo contenedor de imagen creada previamente, uso flag -p de exponer puertos, contenedor:sistema
+# ejecutar nuevo contenedor de imagen creada previamente, uso flag -p de exponer puertos, sistema:contenedor
 docker run -d -p 3000:3000 webapp
 # salida
 3e3519cb572807e6f6f2000a7db37337881d8827e7508a272e0867813ca08837
