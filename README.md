@@ -1,12 +1,12 @@
 # Docker-Facilito
 
-### - Enlaces de referencia principales:
+### - Enlaces de referencia principales
 
 - https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 - https://docs.docker.com/compose/
 
-### - Contenedores:
+### - Contenedores
 
 - [Hola mundo](./containers/holamundo.md)
 
@@ -22,7 +22,7 @@
 
 - [Commits](./containers/commits.md)
 
-### - Volumenes:
+### - Volumenes
 
 - [Overview](./volumes/overview.md)
 
@@ -30,7 +30,7 @@
 
 - [Compartir archivos con contenedores](./volumes/compartir_archivos_contenedores.md)
 
-### - Imagenes:
+### - Imagenes
 
 - [Overview](./images/overview.md)
 
@@ -52,7 +52,7 @@
 
 - [Subir imagen a Docker Hub](./images/subir_imagen_docker_hub.md)
 
-### - Redes:
+### - Redes
 
 - [Overview](./networks/overview.md)
 
