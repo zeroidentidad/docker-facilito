@@ -5,6 +5,7 @@
     Por defecto se crea tipo bridge
 
     [docker-compose.yml](./redes/docker-compose.yml) editado
+    
     [.env](./redes/.env) editado
 
 ```shell
