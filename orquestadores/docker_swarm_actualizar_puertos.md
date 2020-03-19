@@ -3,6 +3,6 @@
 - Intro
 
 ```shell
-# coment
+# comentario
 texto
 ```

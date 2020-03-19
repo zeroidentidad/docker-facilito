@@ -53,7 +53,7 @@ Endpoint Mode:	vip
 # eliminar servicio
 docker service rm redis
 
-# ver ayuda
+# ver ayuda comandos
 docker service --help
 Usage:	docker service COMMAND
 
