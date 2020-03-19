@@ -90,11 +90,11 @@
 
 - [Overview](./orquestadores/overview.md)
 
-- [Docker swarm](./orquestadores/docker_swarm.md)
+- [Docker Swarm](./orquestadores/docker_swarm.md)
 
-- [Docker swarm deploy servicio](./orquestadores/docker_swarm_deploy_servicio.md)
+- [Docker Swarm deploy servicio](./orquestadores/docker_swarm_deploy_servicio.md)
 
-- [Docker swarm actualizar puertos](./orquestadores/docker_swarm_actualizar_puertos.md)
+- [Docker Swarm actualizar puertos](./orquestadores/docker_swarm_actualizar_puertos.md)
 
 - [Kubernetes conceptos](./orquestadores/kubernetes_conceptos.md)
 
