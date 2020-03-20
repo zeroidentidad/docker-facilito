@@ -10,7 +10,8 @@
 
     [app.py](./docker_api/app.py) editado
 
- ```shell
+
+```shell
 # crear directorio para codigo ejemplo (docker_api)
 cd docker_api
 
