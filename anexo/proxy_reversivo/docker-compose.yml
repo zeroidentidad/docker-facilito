@@ -1,0 +1,18 @@
+version: "3.7"
+
+services:
+    traefik:
+        image: traefik:v1.7
+        ports: 
+            - 8080:8080
+            - 80:80
+        volumes: 
+            - $PWD/traefik.toml:/etc/traefik/traefik.toml
+            - /var/run/docker.sock:/var/run/docker.sock
+    nginx:
+        image: nginx
+        labels: 
+            - "traefik.frontend.rule=Host:server.docker.local"
+            - "traefik.enable=true"
+        ports: 
+            - 8081:80
