@@ -1,17 +1,20 @@
 # Proxy reversivo
  
- - Ejemplo bases proxy reversivo
+- Ejemplo bases proxy reversivo
 
     Herramienta caso de uso: https://docs.traefik.io/
 
     Imagen Docker de Traefik: https://hub.docker.com/_/traefik
 
-    Diagrama de ejemplo
+
+Diagrama de ejemplo
 
  ![diagrama](./img/proxy_reversivo.png)
 
+ 
  [docker-compose.yml](./proxy_reversivo/docker-compose.yml) editado
 
+ 
  [traefik.toml](./proxy_reversivo/traefik.toml) editado
 
 ```shell
@@ -71,13 +74,13 @@ CONTAINER ID  IMAGE         COMMAND      CREATED              PORTS             
 ![diagrama](./img/proxy_reversivo2.png)
 
 
- - Agregar servicio para acceso con traefik
+- Agregar servicio para acceso con traefik
 
     Doc configuraciones Docker: https://docs.traefik.io/v1.7/configuration/backends/docker/
 
     Info labels: https://docs.traefik.io/v1.7/configuration/backends/docker/#labels-overriding-default-behavior
 
- ```shell
+```shell
 # modificar docker-compose.yml
 version: "3.7"
 
