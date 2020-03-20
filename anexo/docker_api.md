@@ -8,7 +8,7 @@
 
     - Imagen para ejemplo: https://hub.docker.com/_/python
 
-    [app.py](./docker_api/app.py) editado
+    Código [app.py](./docker_api/app.py) editado
 
 
 ```shell
