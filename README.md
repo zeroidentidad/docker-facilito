@@ -99,3 +99,12 @@
 - [Kubernetes conceptos](./orquestadores/kubernetes_conceptos.md)
 
 - [Kubernetes en local minikube](./orquestadores/kubernetes_en_local_minikube.md)
+
+### - Anexo
+
+- [Docker api](./anexo/docker_api.md)
+
+- [Proxy reversivo](./anexo/proxy_reversivo.md)
+
+- [Compartir dispositivo con contenedor](./anexo/compartir_dispositivo_con_contenedor.md)
+
